@@ -1,0 +1,38 @@
+@charset 'utf-8'
+
+/*Common*/
+@font-face  {
+   font-family: 'Noto Sans KR';
+   font-weight: 400;
+   src:url(../font/NotoSansKR-Regular.woff)
+}
+@font-face  {
+   font-family: 'Noto Sans KR';
+   font-weight: 500;
+   src:url(../font/NotoSansKR-Medium.woff)
+}
+@font-face  {
+   font-family: 'Noto Sans KR';
+   font-weight: 700;
+   src:url(../font/NotoSansKR-Bold.woff)
+}
+@font-face  {
+   font-family: '나눔스퀘어 R';
+   font-weight: 700;
+   src:url(../font/NanumSquareOTFRegular.woff)
+}
+@font-face  {
+   font-family: '나눔스퀘어 B';
+   font-weight: 700;
+   src:url(../font/NanumSquareOTFBold.woff)
+}
+@font-face  {
+   font-family: '나눔스퀘어 EB';
+   font-weight: 700;
+   src:url(../font/NanumSquareOTFExtraBold.woff)
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url(../font/roboto-v20-latin-700.woff);
+}
